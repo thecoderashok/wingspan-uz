@@ -1,0 +1,208 @@
+::selection {
+  color: #ffffff!important;
+  background: #80bb03!important;
+}
+
+/* text color - start
+================================================== */
+.color-royalblue,
+.item-title:hover,
+.post-meta > ul > li .admin,
+.post-meta > ul > li a:hover,
+.mobile-menu-wrapper #dismiss,
+.mobile-menu-wrapper .dismiss,
+.newsletter-section .title-text,
+.drop-action-btns > ul > li > a,
+.scale-action-btns > ul > li > a,
+.main-menu > ul .active > a:before,
+.form-item input:focus + .form-item-btn,
+.about-section .about-content .title-text,
+.shop-section .load-more .load-more-btn:hover,
+.home-page-11 .contact-grid-btn ul li a:hover,
+.service-section .service-item .service-title,
+.footer-section .default-footer .about-info p,
+.blog-list-item:hover .blog-content .blog-title,
+.full-width-blog:hover .blog-content .blog-title,
+.blog-details-item .blog-content .item-description,
+.portfolio-section .load-more .load-more-btn:hover,
+.slider-section-three .owl-nav button:hover:before,
+.slider-section-three .owl-nav button:hover:before,
+.work-process-section .work-process-item .item-title,
+.footer-section .default-footer .address-info ul li a,
+.portfolio-section .button-group .filter-button:hover,
+.footer-section .default-footer .about-info p a:hover,
+.portfolio-section .other-post-links .post-link a:hover,
+.main-menu > ul > .menu-item-has-child:hover > a:before,
+.footer-section .default-footer .menu-list ul li a:hover,
+.portfolio-section .button-group .filter-button.is-checked,
+.blog-details-item .blog-content .share-links ul li a:hover,
+.slider-section-eleven .slider-items-nav .slick-prev:before,
+.slider-section-eleven .slider-items-nav .slick-next:before,
+.mobile-menu-wrapper #sidebar .footer-area .copyright-text a,
+.header-section .default-header .main-menu > ul > .active > a,
+.header-section .default-header .main-menu > ul > li:hover > a,
+.portfolio-details-item .details-content .post-category ul li a,
+.portfolio-details-item .details-content .post-admin .admin-link,
+.portfolio-section .grid.portfolio-eight .grid-item .read-more-btn,
+.header-section .default-header .btns-group > ul > li:hover > button,
+.main-slider-ten .item .slider-content .position-y-middle .post-label,
+.slider-section-eleven .slider-items-nav .item .item-content .date-text,
+.sidebar-section .top-rated-post > ul > li:hover .item-content .item-title,
+.home-page-1 .slider-section .slider-items .item .big-text .color-royalblue,
+.leftside-fixed-header #sidebar-menu .btns-group > ul > li .cart-item-counter,
+.portfolio-page-8 .grid.portfolio-ten .grid-item .item-content .like-btn:hover,
+.shop-section .shop-details .shop-details-content .item-category ul li a:hover,
+.portfolio-section .portfolio-eight .tab-content .tab-pane .tag-list ul li a:hover,
+.mobile-menu-wrapper #sidebar .pages-list > ul > .menu-item-has-child .sub-menu > .active > a,
+.mobile-menu-wrapper #sidebar .pages-list > ul > .menu-item-has-child .sub-menu > li:hover > a,
+.blog-details-item .blog-content .related-posts .related-posts-carousel .item:hover .item-content .title-text {
+	color: #80bb03 !important;
+}
+/* text color - end
+================================================== */
+
+
+
+/* background color - start
+================================================== */
+.backtotop,
+.bg-royalblue,
+.plus-effect:after,
+.plus-effect:before,
+.item-label > ul > li,
+.home-page-2 .header-section,
+.leftside-fixed-header #sidebar-menu,
+.drop-action-btns > ul > li > a:hover,
+.work-process-section .heroes-comment .blockquote,
+.portfolio-section .button-group .filter-button sup,
+.about-section-two .about-content .sub-title-text:before,
+.portfolio-section .grid.portfolio-five .grid-item:before,
+.newsletter-section .newsletter-form .newsletter-input label,
+.blog-details-item .blog-content .share-links .share-links-title,
+.main-menu > ul > .menu-item-has-child > .sub-menu > .active > a,
+.main-menu > ul > .menu-item-has-child > .sub-menu > li:hover > a,
+.mobile-menu-wrapper #sidebar .pages-list > ul > li > a .cart-counter,
+.leftside-fixed-header #sidebar-menu .menu-list .menu-item-has-child > .sub-menu,
+.shop-section .shop-details .shop-details-content .quantity-cart-btn ul li .cart-btn,
+.mobile-menu-wrapper #sidebar .pages-list > ul > .menu-item-has-child .sub-menu > li:before,
+.shop-section .shop-details .products-image-carousel .small-image-carousel .nav-item.slick-current.slick-active {
+	background-color: #80bb03 !important;
+}
+/* background color - end
+================================================== */
+
+
+
+/* overlay background color - start
+================================================== */
+.dot-effect,
+.grid-item .image-container:before,
+.shop-section .shop-item .image-container:before,
+.sidebar-section .instagram-shoots ul li a:before {
+	background-color: rgba(128, 187, 3, 0.9) !important;
+}
+/* overlay background color - end
+================================================== */
+
+
+
+/* border color - start
+================================================== */
+.form-item input:focus,
+.blog-list-item .blog-content .post-meta,
+.full-width-blog .blog-content .post-meta,
+.blog-details-item .blog-title-container .post-meta,
+.portfolio-details-item .details-content .Jenobookt-text,
+.main-slider-ten .item .slider-content .position-y-middle .view-btn,
+.newsletter-section .newsletter-form .newsletter-input input[type=email]:focus,
+.blog-details-item .blog-content .related-posts .related-posts-carousel .item .item-content .post-meta {
+	border-color: #80bb03 !important;
+}
+/* border color - end
+================================================== */
+
+
+
+/* bg color + text color - start
+================================================== */
+.drop-action-btns > ul > li > a:hover,
+.scale-action-btns > ul > li > a:hover,
+.leftside-fixed-header #sidebar-menu-btn:hover,
+.leftside-fixed-header .social-links > ul > li > a:hover,
+.mobile-menu-wrapper #sidebar .pages-list > ul > .active > a .icon,
+.mobile-menu-wrapper #sidebar .pages-list > ul > li:hover > a .icon,
+.mobile-menu-wrapper #sidebar .footer-area .social-links li a:hover,
+.main-slider-ten .item .slider-content .position-y-middle .view-btn:hover,
+.header-section .default-header .btns-group > ul .cart-btn .cart-item-counter,
+.cart-btn .cart-items-container.has-items .cart-item .item-content > ul > li button:hover,
+.cart-btn .cart-items-container.has-items .footer-container .footer-right > ul > li > a:hover {
+	color: #ffffff !important;
+	background-color: #80bb03 !important;
+}
+
+.leftside-fixed-header #sidebar-menu .btns-group > ul > li > button:hover {
+	color: #80bb03 !important;
+	background-color: #ffffff !important;
+}
+/* bg color + text color - end
+================================================== */
+
+
+
+
+
+/* home 1 - start
+================================================== */
+.portfolio-section .grid.portfolio-one .grid-item .item-content .post-meta > ul > li .admin {
+	color: #ffffff !important;
+}
+/* home 1 - start
+================================================== */
+
+
+
+/* home 2 - start
+================================================== */
+/* text color - start */
+.home-page-2 .header-section .default-header .main-menu > ul > .active > a,
+.home-page-2 .header-section .default-header .main-menu > ul > li:hover > a,
+.home-page-2 .header-section .default-header .main-menu > ul > .active > a:before,
+.home-page-2 .header-section .default-header .main-menu > ul > li:hover > a:before {
+	color: #ffffff !important;
+}
+/* text color - end */
+
+/* background color - start */
+.home-page-2 .slider-section .slider-items .item .overlay-royalblue {background-color: rgba(128, 187, 3, 0.7) !important;}
+/* background color - end */
+
+.portfolio-section .grid.portfolio-two .grid-item .image-container:before {background-color: rgba(255, 255, 255, 0.95) !important;}
+/* home 2 - end
+================================================== */
+
+
+
+/* home 6 - start
+================================================== */
+.portfolio-section .grid.portfolio-six .grid-item .image-container:before {background-color: rgba(255, 255, 255, 0.95) !important;}
+/* home 6 - end
+================================================== */
+
+
+
+/* home 9 - start
+================================================== */
+/* text color - start */
+.home-page-9 .header-section .default-header .main-menu > ul > .active > a,
+.home-page-9 .header-section .default-header .main-menu > ul > li:hover > a,
+.home-page-9 .header-section .default-header .main-menu > ul > .active > a:before,
+.home-page-9 .header-section .default-header .main-menu > ul > li:hover > a:before {
+	color: #ffffff !important;
+}
+/* text color - end */
+/* background color - start */
+.home-page-9 .header-section:after,
+.home-page-9 .header-section.stuck:before {background-color: #80bb03 !important;}
+/* background color - end */
+/* home 9 - end
+================================================== */
