@@ -3210,13 +3210,18 @@ footer .menu-list a {
 .portfolio-section .grid.portfolio-two .image-container img {
   /* display: none; */
   padding: 0 !important;
+  opacity: 0 !important;
 }
+
+/* grid image temporary bg  */
 
 .portfolio-section .grid.portfolio-two .grid-item .image-container {
   height: 370px;
-  background: white;
+  background: rgb(187, 187, 187);
   padding: 0 !important;
 }
+
+/* grid image temporary bg  */
 
 .portfolio-section .grid.portfolio-two .grid-item .image-container:before {
   background-color: rgba(243, 243, 243, 0.742);
@@ -4170,7 +4175,6 @@ footer .menu-list a {
 }
 
 .portfolio-section .grid.portfolio-seven .grid-title .title-text {
-  margin: 0px;
   height: 101px;
   font-size: 54px;
   text-transform: capitalize;
@@ -8245,6 +8249,10 @@ footer .menu-list a {
 @media screen and (max-width: 1191px) {
   .menu-btn {
     display: block !important;
+  }
+
+  .btns-group > ul{
+    padding-right: 0px;
   }
   .header-login-tab, .indigo-logo {
     display: none !important;
